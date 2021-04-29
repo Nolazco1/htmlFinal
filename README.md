@@ -1,3 +1,8 @@
+**
+This is my submission of my final assignment of HTML & CSS course I took while studying Software Technology
+@ Ogden Weber Applied Technology College (OWATC)
+**
+
 # htmlFinal
  Goal: Create an HTML file that will be styled differently three times, using one of three different CSS style sheets that you will create. If you like, you can use the base file that's provided here. 
 Download the zipped file below, then right-click and "Extract All" (there will be only one file when you extract, and that is the base HTML5 template available for your use). Your HTML files should use the HTML5 Doctype and meta tag (as does the optional base file we provide for you here). 
