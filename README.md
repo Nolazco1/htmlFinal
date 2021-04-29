@@ -1,5 +1,5 @@
 **
-This is my submission of my final assignment of HTML & CSS course I took while studying Software Technology
+This is my submission of my final assignment of the HTML & CSS course I took while studying Software Technology
 @ Ogden Weber Applied Technology College (OWATC)
 **
 
